@@ -1,1 +1,3 @@
 hello world for git :)
+
+*This is a demo file for Platzi Git Class
